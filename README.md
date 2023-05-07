@@ -1,0 +1,2 @@
+# PyneStrap
+PyneStrap is a Python package that provides pre-built components of the ‘pynecone’ package for easy and convenient use. With PyneStrap, you can quickly and easily integrate the functionality of ‘pynecone’ into your projects without having to build everything from scratch. PyneStrap requires the ‘pynecone’ package to be installed.
