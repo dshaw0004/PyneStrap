@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: PyneStrap
+Version: 0.0.1
+Summary: A component library for Pynecone
+Home-page: https://github.com/dshaw0004/PyneStrap
+Author: dshaw0004
+Author-email: dshaw0004 <dipankarshaw692+pypi@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/dshaw0004/PyneStrap
+Project-URL: Bug Tracker, https://github.com/dshaw0004/PyneStrap/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PyneStrap
+PyneStrap is a Python package that provides pre-built components of the ‘pynecone’ package for easy and convenient use. With PyneStrap, you can quickly and easily integrate the functionality of ‘pynecone’ into your projects without having to build everything from scratch. PyneStrap requires the ‘pynecone’ package to be installed.
